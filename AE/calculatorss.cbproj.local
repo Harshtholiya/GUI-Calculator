@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/12/15 22:02:25.360,=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/12/15 22:02:25.451,=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/15 22:33:16.438,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Calculator.h=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/12/15 22:33:16.438,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Calculator.cpp=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/12/15 22:33:16.438,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Calculator.dfm=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/15 22:34:02.412,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculatorsPCH1.h=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/12/15 22:34:02.445,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculators.cbproj=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/12/15 23:05:55.144,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculatorssPCH1.h=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculatorsPCH1.h</Transaction>
+    <Transaction>2023/12/15 23:05:55.174,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculatorss.cbproj=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculators.cbproj</Transaction>
+    <Transaction>2023/12/15 23:05:58.625,C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculatorss.cbproj=C:\Users\harsh\OneDrive\Documents\Embarcadero\Studio\Projects\AE\calculatorss.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
